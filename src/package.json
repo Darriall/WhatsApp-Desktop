@@ -1,7 +1,7 @@
 {
   "main": "app.html",
   "name": "UnofficialWhatsApp",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "app-id": "com.aluxian.whatsappfordesktop",
   "chromium-args": "--disable-setuid-sandbox",
   "window": {
@@ -24,9 +24,9 @@
   },
   "manifestUrl": "https://raw.githubusercontent.com/Aluxian/WhatsApp-Desktop/master/src/package.json",
   "packages": {
-    "osx64": "https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsApp.dmg",
-    "win32": "https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsAppSetup.exe",
-    "linux32": "https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsApp_linux32.deb",
-    "linux64": "https://github.com/Aluxian/WhatsApp-Desktop/releases/download/v1.1.0/UnofficialWhatsApp_linux64.deb"
+    "osx64": "https://updates.whatsie.chat/download/darwin/latest",
+    "win32": "https://updates.whatsie.chat/download/mirror/installcore/latest?platform=win32",
+    "linux32": "https://updates.whatsie.chat/download/linux/latest?pkg=deb&arch=i386",
+    "linux64": "https://updates.whatsie.chat/download/linux/latest?pkg=deb&arch=amd64"
   }
 }
